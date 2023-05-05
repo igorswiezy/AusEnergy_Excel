@@ -1,5 +1,4 @@
 # data_analysis
-Data analysis projects done in the past.
 
 AusEnergy Energy demand Analysis 2023
 
